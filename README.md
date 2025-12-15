@@ -8,7 +8,7 @@ AWS Cloud Computing provides on-demand access to computing power, storage, and d
 ---
 
 ## Architecture
-![AWS S3 Architecture](./img/Architecture.png)
+![AWS S3 Architecture](./img/architecture.png)
 
 **Flow:**
 - Users access the website through a web portal
